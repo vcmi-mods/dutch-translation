@@ -1,0 +1,15 @@
+{
+	"name" : "AI translated",
+	"description" : "AI translated by Google Translate",
+	"version" : "1.0",
+	"author" : "Google Translate",
+	"contact" : "",
+	"language" : "dutch",
+	"modType" : "Translation",
+	"translations" : [
+		"config/vcmi-dutch-ai/campaigns.json",
+		"config/vcmi-dutch-ai/game.json",
+		"config/vcmi-dutch-ai/maps.json",
+		"config/vcmi-dutch-ai/chronicles.json"
+	]
+}

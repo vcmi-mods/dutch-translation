@@ -1,0 +1,31 @@
+{
+	"name" : "Dutch translation",
+	"description" : "Dutch translation of Heroes of Might and Magic III: Complete Edition",
+	"version" : "1.0.0",
+	"author" : "Fabrice TIERCELIN",
+	"contact" : "",
+	"language" : "dutch",
+	"modType" : "Translation",
+	"compatibility" :
+	{
+		"min" : "1.7.0"
+	},
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"german" : {
+		"name" : "Niederländische Übersetzung",
+		"description" : "Niederländische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
+	},
+	"dutch" : {
+		"name" : "Nederlandse vertaling",
+		"description" : "Nederlandse vertaling van Heroes of Might and Magic III: Complete Edition"	
+	},
+	"translations" : [
+		"config/vcmi-dutch/game.json",
+		"config/vcmi-dutch/maps.json",
+		"config/vcmi-dutch/campaigns.json",
+		"config/vcmi-dutch/chronicles.json"
+	]
+}
