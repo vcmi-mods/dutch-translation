@@ -14,6 +14,10 @@
 	{ 
 		"1.0.0" : [ "Initial release" ]
 	},
+	"french" : {
+		"name" : "Traduction néerlandaise",
+		"description" : "Traduction néerlandaise (hollandaise) de Heroes of Might and Magic III : Édition complète"	
+	},
 	"german" : {
 		"name" : "Niederländische Übersetzung",
 		"description" : "Niederländische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
