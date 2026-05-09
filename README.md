@@ -26,3 +26,19 @@ Please create a new issue [here](https://github.com/vcmi-mods/dutch-translation/
 1. Stel de taal in op _Nederlands_
 1. Installeer de _Nederlandse vertaling_ mod
 1. Start het spel
+
+# How to dub
+
+1. Copy a prolog/epilog from [`content/config/vcmi-dutch/campaigns.json`](https://github.com/vcmi-mods/dutch-translation/tree/vcmi-1.7/content/config/vcmi-dutch/campaigns.json) or [mods/AITranslated/Content/config/vcmi-dutch-ai/campaigns.json](https://github.com/vcmi-mods/dutch-translation/blob/vcmi-1.7/mods/AITranslated/Content/config/vcmi-dutch-ai/campaigns.json)
+2. Go to [_XTTS_](https://huggingface.co/spaces/Fabrice-TIERCELIN/Multi-language_Text-to-Speech)
+3. Paste the speech text
+5. Select _Dutch_
+4. Upload a voice
+4. Set the output number to `9`
+5. Click on _Speak_
+6. Download the audio files
+7. Select the best file or mix them using _Audacity_
+8. Retrieve the property for the speech in the [`content/config/vcmi-dutch/campaigns.json`](https://github.com/vcmi-mods/dutch-translation/tree/vcmi-1.7/content/config/vcmi-dutch/campaigns.json) or [mods/AITranslated/Content/config/vcmi-dutch-ai/campaigns.json](https://github.com/vcmi-mods/dutch-translation/blob/vcmi-1.7/mods/AITranslated/Content/config/vcmi-dutch-ai/campaigns.json) file
+9. Retrieve the related audio filename in the [empty-translation mod](https://github.com/vcmi-mods/empty-translation?tab=readme-ov-file#dubbing)
+10. Rename the audio file
+11. Move the file to `content/sounds/` folder
