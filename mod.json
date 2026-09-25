@@ -6,25 +6,25 @@
 	"contact" : "",
 	"language" : "dutch",
 	"modType" : "Translation",
-	"compatibility" :
-	{
+	"compatibility" : {
 		"min" : "1.7.0"
 	},
-	"changelog" : 
-	{ 
-		"1.0.0" : [ "Initial release" ]
+	"changelog" : {
+		"1.0.0" : [
+			"Initial release"
+		]
 	},
 	"french" : {
 		"name" : "Traduction néerlandaise",
-		"description" : "Traduction néerlandaise (hollandaise) de Heroes of Might and Magic III : Édition complète"	
+		"description" : "Traduction néerlandaise (hollandaise) de Heroes of Might and Magic III : Édition complète"
 	},
 	"german" : {
 		"name" : "Niederländische Übersetzung",
-		"description" : "Niederländische Übersetzung von Heroes of Might and Magic III: Complete Edition"	
+		"description" : "Niederländische Übersetzung von Heroes of Might and Magic III: Complete Edition"
 	},
 	"dutch" : {
 		"name" : "Nederlandse vertaling",
-		"description" : "Nederlandse vertaling van Heroes of Might and Magic III: Complete Edition"	
+		"description" : "Nederlandse vertaling van Heroes of Might and Magic III: Complete Edition"
 	},
 	"translations" : [
 		"config/vcmi-dutch/game.json",
